@@ -1,7 +1,8 @@
 # example_checks
 
-This is some code:
-
 ```ruby
-puts "This is bold text."
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
+
