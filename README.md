@@ -1,5 +1,7 @@
 # example_checks
 
-```
-**git status
+This is some code:
+
+```ruby
+puts "This is bold text."
 ```
