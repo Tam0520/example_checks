@@ -1,7 +1,7 @@
 # example_checks
 
 ```ruby
-require 'redcarpet'
+**require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
