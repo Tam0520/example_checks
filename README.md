@@ -1,6 +1,5 @@
 # example_checks
 
-```
-**This is**
-```
+var myBoldString = 'This is bold!';
+console.log(myBoldString);
  
