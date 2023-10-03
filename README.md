@@ -1,10 +1,5 @@
 # example_checks
 
-```ruby
-** This is **
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+**This is**
 
  
